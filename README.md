@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aprianto Fajar
+Hi I'm Aprianto Fajar
 ======================================================================================================================================
 
 UI/UX Designer | Mobile Developer
@@ -7,7 +7,7 @@ UI/UX Designer | Mobile Developer
 I am a developer and designer with experience in helping to build small and medium businesses. Good in making a list of business services as well as designing for business needs.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Myportfolio](http://bio.link/designtif)
+* 🖥️  See my portfolio at [Myportfolio](http://bio.link/apridev)
 * ✉️  You can contact me at [appri.business@gmail.com](mailto:appri.business@gmail.com)
 * 🧠  I'm learning MERN Stack Developer
 
