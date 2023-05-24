@@ -9,7 +9,6 @@ I am a developer and designer with experience in helping to build small and medi
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Myportfolio](http://bio.link/apridev)
 * ✉️  You can contact me at [appri.business@gmail.com](mailto:appri.business@gmail.com)
-* 🧠  I'm learning MERN Stack Developer
 
 ### Skills
 
