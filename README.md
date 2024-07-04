@@ -7,7 +7,7 @@ UI/UX Designer | Mobile Developer
 I am a developer and designer with experience in helping to build small and medium businesses. Good in making a list of business services as well as designing for business needs.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Myportfolio](http://bio.link/apridev)
+* 🖥️  See my portfolio at [Myportfolio](https://bento.me/appri)
 * ✉️  You can contact me at [appri.business@gmail.com](mailto:appri.business@gmail.com)
 
 ### Skills
