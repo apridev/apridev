@@ -1,7 +1,7 @@
 Hi I'm Aprianto Fajar
 ======================================================================================================================================
 
-UI/UX Designer | Mobile Developer
+UI/UX Designer | Mobile Developer | Full Stack Developer
 ---------------------------------
 
 I am a developer and designer with experience in helping to build small and medium businesses. Good in making a list of business services as well as designing for business needs.
