@@ -4,7 +4,7 @@ Hi I'm Aprianto Fajar
 UX Designer | Full-Stack Experience in Development | Product Strategy
 ---------------------------------
 
-I am a developer and designer with experience in helping to build small and medium businesses. Good in making a list of business services as well as designing for business needs.
+I am Apri from Indonesia, a UX Designer in full-stack development and product strategy. I specialise in designing intuitive user experiences and transforming them into scalable digital products.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [appri.business@gmail.com](mailto:appri.business@gmail.com)
